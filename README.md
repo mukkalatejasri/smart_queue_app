@@ -70,3 +70,9 @@ smart_queue_app/
 │   └── main.dart
 └── pubspec.yaml
 </pre>
+
+## 🎯 Project Objective
+The objective of Smart Queue is to make queue management easier, improve real-time access to token status and waiting times, and help users and service providers monitor and manage queues efficiently.
+
+## 👨‍💻 Developed With
+Flutter • Dart • Firebase • GitHub
