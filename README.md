@@ -33,26 +33,28 @@ A modern, Flutter-based mobile application designed to streamline queue manageme
 ```bash
 git clone https://github.com/mukkalatejasri/smart_queue_app.git
 ```
-2. Open the project folder
-
+**2. Open the project folder**
 Bash
+```
 cd smart_queue_app
 ```
-3. Install dependencies
+**3. Install dependencies**
 
 Bash
+```
 flutter pub get
 ```
-4. Configure Firebase
+**4. Configure Firebase**
 
 Set up your own Firebase project and configure the Android app using the appropriate Firebase configuration files.
-```
-5. Run the application
+
+**5. Run the application**
 
 Bash
+```
 flutter run
 ```
-📁 Project Structure
+**📁 Project Structure**
 
 smart_queue_app/
 ├── android/
