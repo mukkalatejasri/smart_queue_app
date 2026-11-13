@@ -54,8 +54,9 @@ Bash
 ```
 flutter run
 ```
-**📁 Project Structure**
+<h2>📁 Project Structure</h2>
 
+<pre>
 smart_queue_app/
 ├── android/
 ├── ios/
@@ -68,3 +69,4 @@ smart_queue_app/
 │   │   └── queue_detail_screen.dart
 │   └── main.dart
 └── pubspec.yaml
+</pre>
